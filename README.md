@@ -11,7 +11,7 @@
     </summary>
   </ul>
 </div>
- **<h3 align="center">A passionate software tester based in California</h3>**
+ <h3 align="center">A passionate software tester based in California</h3>
 
 **<h3 align="left">About me:</h3>**
 
