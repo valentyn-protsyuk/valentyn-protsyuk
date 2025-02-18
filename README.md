@@ -17,12 +17,11 @@
 
  **<h3 align="center">A passionate software tester based in California</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">About me:</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- 📚 I'm currently learning: Selenium
+- 📫 How to reach me: valentyn.protsyuk@yahoo.com
+- ⚡ Portfolio website: here 
 
  **<h3 align="left">Skills</h3>**
 
