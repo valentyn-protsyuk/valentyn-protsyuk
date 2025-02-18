@@ -19,7 +19,7 @@
 
 **<h3 align="left">About me:</h3>**
 
-- 📚 I'm currently learning: Selenium
+- 📚 LinkedIn: <a href="https://www.linkedin.com/in/valentyn-protsyuk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
 - 📫 How to reach me: valentyn.protsyuk@yahoo.com
 - ⚡ Portfolio website: here 
 
