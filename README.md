@@ -182,6 +182,27 @@
           <td>Test cases & bug reports for portfolio website</td>
           <td>Google sheets</td>
         </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/valentyn-protsyuk/russianRouletteJS">Russian Roulette Game</a>
+          </td>
+          <td>Fun little game</td>
+          <td>JS, CSS, HTML, and JSON</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="">Russian Roulette Automation</a>
+          </td>
+          <td>Testing game using Playwright</td>
+          <td>Playwright & typescript</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://docs.google.com/spreadsheets/d/1YqvJMO0qNF1fSIWDR3aXC3Tf0FDpUHesGxKpa8d8ErY/edit?usp=sharing">Russian Roulette Manual</a>
+          </td>
+          <td>Test cases for testing</td>
+          <td>Google Sheets</td>
+        </tr>
       </tbody>
     </table></markdown-accessiblity-table
   >
