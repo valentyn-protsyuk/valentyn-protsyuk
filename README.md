@@ -185,7 +185,6 @@
       </tbody>
     </table></markdown-accessiblity-table
   >
-</div>
 
 # 📊GitHub Stats :
 <p align="left">
@@ -193,5 +192,6 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=valentyn-protsyuk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub top-langs Card" />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=valentyn-protsyuk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub streak Card" />
 </p>
+</div>
 
 ![Profileviews](https://komarev.com/ghpvc/?username=valentyn-protsyuk&label=Profile%20views&color=0e75b6&style=flat)
