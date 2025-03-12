@@ -7,7 +7,7 @@
 **<h3 align="left">About me:</h3>** 
 - 📚 LinkedIn: www.linkedin.com/in/valentyn-protsyuk 
 - 📫 Email: valentyn.protsyuk@yahoo.com
-- ⚡ Portfolio: here
+- ⚡ Portfolio: [here](https://valentyn-protsyuk.github.io/vp-portfolio/)
 
 <div align="center" dir="auto">
   
