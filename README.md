@@ -191,7 +191,7 @@
         </tr>
         <tr>
           <td>
-            <a href="">Russian Roulette Automation</a>
+            <a href="https://github.com/valentyn-protsyuk/RR-Playwright">Russian Roulette Automation</a>
           </td>
           <td>Testing game using Playwright</td>
           <td>Playwright & typescript</td>
